@@ -1,22 +1,5 @@
-#  Mini Calculadora
+Olá e obrigado por visitar meu repositório! 
 
-##  Descrição
-Mini calculadora interativa desenvolvida com JavaScript, utilizando manipulação do DOM, funções e estruturas condicionais para realizar operações matemáticas básicas.
+Aqui você encontrará alguns projetos básicos de JavaScript que desenvolvi como parte do meu processo de aprendizado. Esses projetos abordam diferentes conceitos da linguagem e são uma excelente forma de entender como estou aplicando o que estou aprendendo na prática.
 
-##  Funcionalidades
-- Realiza as quatro operações básicas: adição, subtração, multiplicação e divisão  
-- Interface simples e intuitiva  
-- Atualização dinâmica do visor com manipulação do DOM  
-- Tratamento de erros simples (como divisão por zero)
-
-##  Tecnologias Utilizadas
-- HTML5  
-- CSS3  
-- JavaScript (puro)
-
-##  Aprendizados
-Durante o desenvolvimento deste projeto, pratiquei:
-- Manipulação do DOM com JavaScript  
-- Criação de funções reutilizáveis  
-- Lógica de programação com condições e eventos  
-- Estruturação de um projeto front-end simples
+Se tiver alguma dúvida, sugestão ou quiser colaborar, sinta-se à vontade para entrar em contato! 
